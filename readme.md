@@ -29,11 +29,11 @@
 
 ## Step2:开始写文档
 
-### 1.文档仓库内容及用途
+#### 2-1 **UCloudDocs的官方github账号 **[点击查看>>](https://github.com/UCloudDocs)
 
-#### 1-1 **UCloudDocs--------github文档主账号**
+#### 2-2 **产品文档仓库/API文档仓库** [仓库列表>>](https://github.com/UCloudDocs?tab=repositories)
 
-##### 1-1-1 **uhost(例)--------产品文档仓库**
+#### 2-3 仓库内容
 
 ​	1） _sidebar.md--------该markdown文件用于生成页面左侧导航（文件名是“\_sidebar.md”,下划线不能丢） [查看范例>>](sidebar范例)
 
@@ -65,7 +65,7 @@
 
 发布周期：每周二、周四 18:30
 
-![文档项目页面，你可以创建文档/上传文档](img/publish.png)
+![文档项目页面，你可以创建文档/上传文档](../../UCloud docs产品文档/what_is_udoc/what_is_UCloudDocs/images/publish.png)
 
 
 

@@ -35,7 +35,7 @@
 
 ##### |— **uhost(例)--------产品文档仓库**
 
-​	|— sidebar.md--------页面左侧导航 [查看范例>>](sidebar范例)
+​	|— _sidebar.md--------该markdown文件用于生成页面左侧导航（文件名是“\_sidebar.md”,下划线不能丢） [查看范例>>](sidebar范例)
 
 ​	|— overview.md--------章节目录页   [查看范例>>](overview范例)
 

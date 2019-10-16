@@ -33,7 +33,7 @@
 
 #### 2-2 **产品文档仓库/API文档仓库** [仓库列表>>](https://github.com/UCloudDocs?tab=repositories)
 
-#### 2-3 仓库内容
+#### 2-3 **仓库内容**
 
 ​	1） _sidebar.md--------该markdown文件用于生成页面左侧导航（文件名是“\_sidebar.md”,下划线不能丢） [查看范例>>](sidebar范例)
 

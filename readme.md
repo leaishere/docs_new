@@ -29,7 +29,7 @@
 
 ## Step2:开始写文档
 
-#### 2-1 **UCloudDocs的官方github账号 **[点击查看>>](https://github.com/UCloudDocs)
+#### 2-1 **UCloudDocs的官方github账号** [点击查看>>](https://github.com/UCloudDocs)
 
 #### 2-2 **产品文档仓库/API文档仓库** [仓库列表>>](https://github.com/UCloudDocs?tab=repositories)
 

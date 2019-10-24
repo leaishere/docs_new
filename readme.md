@@ -65,7 +65,7 @@
 
 发布周期：每周二、周四 18:30
 
-![文档项目页面，你可以创建文档/上传文档](../../UCloud docs产品文档/what_is_udoc/what_is_UCloudDocs/images/publish.png)
+![文档项目页面，你可以创建文档/上传文档](images/publish-1904769.png)
 
 
 

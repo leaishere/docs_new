@@ -35,9 +35,11 @@
 
 #### 2-3 **仓库内容**
 
-​	1） _sidebar.md--------该markdown文件用于生成页面左侧导航（文件名是“\_sidebar.md”,下划线不能丢） [查看范例>>](sidebar)
+![画板](images/画板.jpg)
 
-​	2） overview.md--------章节目录页   [查看范例>>](overview)
+​	1） _sidebar.md控制左边栏--------该markdown文件用于生成页面左侧导航（文件名是“\_sidebar.md”,下划线不能丢） [查看范例>>](sidebar)
+
+​	2） overview.md控制概览页--------章节目录页   [查看范例>>](overview)
 
 ​	3） 文档文件夹--------章节 
 

@@ -15,7 +15,7 @@
 
 # 那么，我们开始创作文档吧！
 
-### 新开文档
+### 1. 新开文档
 
 找到UCloudDocs账号，并进入目标仓库。在你所需创建文档的层级下，点击“create a new file”进入编辑页面。
 
@@ -23,78 +23,74 @@
 
 
 
+### 2. 创建文档左边栏？创建_sidebar.md
 
+请在仓库根目录下创建_sidebar.md文档，用于定义页面左边目录导航内文档目录。
 
-### 命名文档
-
-在路径上填入本篇文档名称（必须使用英文并添加后缀.md），开始在“edit”区域进行markdown写作。
-
-![文档项目页面，你可以创建文档/上传文档](images/edit.png)
-
+> 增减/修改文档时，不要忘记更新这篇目录文件哦
 
 
 
+### 3. 创建你的产品文档概览页？创建overview.md
 
-### 编写文档
+请在仓库根目录下创建overview.md文档，用于定义文档下首篇“门面”。
+
+> overview的命名是平台侧批量为旧仓库添加的时候自定义的，主要是考虑到不与仓库原index文档重名导致内容覆盖（影响PD再使用index内容）。由于新平台的左侧目录完全依赖_sidebar.md内无需列表来控制，所以仓库内所有内容的命名方式只要保证独一性、符合写法要求，如何命名是不受限制的。Freestyle任你选！
+
+
+
+![画板](images/画板.jpg)
+
+
+
+### 4. 如何管理文档用图？使用图库或仓库内新建images文件夹
+
+- 绝对地址引用：[使用图床>>](http://docs.ucloudadmin.com/5b10f62667ded1519074449f/edit)
+- 相对地址引用（规则不变）
+
+![屏幕快照 2019-11-01 下午6.48.25](images/屏幕快照 2019-11-01 下午6.48.25.png)
+
+> ### 新手求助：如何建images文件夹？
+>
+> 在需要创建文件夹的层级内，点击“upload files”进入上传界面。将本地建好的文件夹拖拽进功能区域，完成提交后即可创建好。
+>
+> ![如何创建文件夹](images/createfile2-1.png)
+>
+> ------
+>
+> ![如何创建文件夹](images/createfile2-2.png)
+>
+> ------
+>
+> ![如何创建文件夹](images/createfile2-3.png)
+>
+> ------
+>
+> ![如何创建文件夹](images/createfile1-2.png)
+
+
+
+
+
+
+
+### 5. 创建第一篇文档
+
+* 在路径上填入本篇文档名称（必须使用英文并添加后缀.md），开始在“edit”区域进行markdown写作。
+
+  ![文档项目页面，你可以创建文档/上传文档](images/edit.png)
 
 * md样式预览：当前默认在“edit”标签下，可点击切换至“preview”查看样式预览；
+
 * [Md语法说明](https://www.jianshu.com/p/40ba812dd973)
+
 * [范例_ULB文档](https://github.com/UCloudDocs/UCloud-document/tree/master/network/ulb)
-* wiki向md转译后的样式问题 👇详见《常见问题》章节
 
 ![文档项目页面，你可以创建文档/上传文档](images/howtopreview.gif)
 
 
 
-### 自定义文章排序
-
-由于前端平台短期内仍使用dokuwiki，因此页面排序仍由indexmenu语法支持。
-
-在正文写入 {{indexmenu_n>数值}} 。**_通过修改“数值”来改变顺序，数值无需连贯，越小，当前文章则越靠前。_**
-
-![自定义文章排序](images/reorderthefile.png)
-
-
-
-### 添加多媒体素材
-
-##### 方法1相对地址引用
-
-使用仓库根目录下的“images”存放图片（ [如何创建文件夹>>](常见问题) ）：
-
-> 写法：
->
-> images/my_pic.png
-
-##### 方法2 绝对地址引用：[图床>>](http://docs.ucloudadmin.com/5b10f62667ded1519074449f/edit)
-
-> 写法：
->
->   https://static.ucloud.cn/jueduidzhi.jpg
-
-
-
-### 生成页面导航（方式与dokuwiki教程一致）
-
-若希望自己文档，在点击章节标题时展示章节内所有文章的**导航链接列表**，可以使用indexmenu语法。
-
-如
-
-![sorting](images/sorting.png)
-
-以上生成了“compute:ugc”作用域下的“一级”标题的导航链接列表。
-
-在我们改为github编辑后，你只需要找到对应的“index.md”并按照原规则，在文档中写下命令即可。
-
-如图所示：
-
-![howtogetthenavi](images/howtogetthenavi.png)
-
-语法说明参考 [dokuwiki官方文档>>](https://www.dokuwiki.org/plugin:indexmenu)
-
-
-
-### 提交新文件
+### 6. 提交新文件
 
 编辑完成后，在“propose new file”模块写明本次创建请求。若为其他账号协作编辑，此模块可以向仓库拥有者说明情况。
 
@@ -102,7 +98,7 @@
 
 
 
-### 完成本次新增
+### 7. 完成本次新增
 
 仓库拥有者若直接在master分支上编辑，确认后改文档将直接出现在仓库列表里（如下图）。仓库中存在于master分支上的内容，都将在每次发布时被推送至线上。
 

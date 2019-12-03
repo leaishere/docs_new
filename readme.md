@@ -68,30 +68,12 @@
 - 文件名是“\_sidebar.md”,下划线不能丢，	[查看范例>>](sidebar)
 
 - **【新功能】在规定class内写入产品icon名称，可在左边栏渲染出图标**
+在_sidebar.md内首行新增class用于添加产品icon（如下图）。只需在[图标库](https://console-font.pre.ucloudadmin.com/www/preview)找到所需产品icon并写入图中圈中区域（样式类似“icon_ulb”）。 [详细说明>>](icon)
 
-  **【例】以ULB产品为例**
+  ![屏幕快照 2019-12-03 上午11.22.04](images/class.png)
 
-  ##### 	Step1：确认"_sidebar.md" 文档首行写入class（如下图），其中“icon_productname”为产品icon在官网图标库的准确名称（前往[图标库](https://console-font.pre.ucloudadmin.com/www/preview)查看）
-
-  #### 	![屏幕快照 2019-12-03 上午11.22.04](images/class.png)
-
-  #### 	
-
-  ##### 	Step2：请保证写入的图标名称与库内一致（如下图，可按产品名称在页内搜索）
-
-  #### 	![屏幕快照 2019-12-03 上午11.22.52](images/icon.png)
-
-  #### 	
-
-  ##### 	Step3：图标名称写入正确后，前往[cms]()上检查PC/M是否显示正常。若无法显示，请优先确认名称是否正确。
-
-  #### ![屏幕快照 2019-12-03 上午11.44.06](images/pc&m.png)
-
-  
-
-> **【温馨提示】** 现存仓库内_sidebar.md已批量添加好class。由于icon命名规则与仓库不一致，无法批量添加。
->
-> 请各位PD**自行**前往[图标库](https://console-font.pre.ucloudadmin.com/www/preview)查找，并在**_sidebar.md**内进行添加。
+  > **【温馨提示】** 现存仓库内_sidebar.md已批量添加好class。由于icon命名规则与仓库不一致，无法批量添加。
+  > 请各位PD**自行**前往[图标库](https://console-font.pre.ucloudadmin.com/www/preview)查找，并在**_sidebar.md**内进行添加。
 
 ##### 2.  overview.md控制概览页--------章节目录页   [查看范例>>](overview)
 

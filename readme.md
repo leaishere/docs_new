@@ -68,7 +68,7 @@
 - 文件名是“\_sidebar.md”,下划线不能丢，	[查看范例>>](sidebar)
 
 - **【新功能】在规定class内写入产品icon名称，可在左边栏渲染出图标**
-在_sidebar.md内首行新增class用于添加产品icon（如下图）。只需在[图标库](https://console-font.pre.ucloudadmin.com/www/preview)找到所需产品icon并写入图中圈中区域（样式类似“icon_ulb”）。 [详细说明>>](icon)
+在_sidebar.md内首行新增class用于添加产品icon（如下图）。只需在[图标库](https://console-font.pre.ucloudadmin.com/www/preview)找到所需产品icon，并去您所管辖的**产品文档和api文档的sidebar文件下**，在图中圈中区域填入icon名称即可生效（样式类似“icon_ulb”）。 [以ulb产品文档为例，详细说明>>](icon)
 
   ![屏幕快照 2019-12-03 上午11.22.04](images/class.png)
 

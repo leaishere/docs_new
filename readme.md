@@ -9,6 +9,7 @@
 | 2020-01-13 | 功能更新：支持自由发布     | [前往查看](#step4自由发布)                            | 李安   |
 | 2020-01-13 | 功能更新：支持更多语言高亮 | [前往查看](faq)                                       | 李安   |
 | 2020-01-13 | 功能更新：支持tabs样式     | [前往查看](faq)                                       | 李安   |
+| 2020-01-15 | 指南更新：提供markdown模版 | [前往查看](#附录_可复制的markdown模版)                | 李安   |
 
 ---
 
@@ -16,13 +17,10 @@
 
 ## 快速阅读
 
-> - ### 写作新人？无从下手？
->
->   - [【推荐阅读】《助你5步创建技术文档》](https://plan.io/blog/technical-documentation/)
->
-> - ### 主要内容
+> - ### 快速上手 UCloud Docs
 >
 >   - [4步上手文档中心！](#step1注册账号申请仓库)
+>   - [可复制的markdown模版](#附录_可复制的markdown模版)
 >
 > - ### 常见问题
 >
@@ -34,13 +32,22 @@
 >
 > - ### 完全新手？我第一次用github/第一次写文档
 >
+>   - [【推荐阅读】《助你5步创建技术文档》](https://plan.io/blog/technical-documentation/)
 >   - [PD如何管理仓库？](duty)
 >   - [第一次用github写文档？](create)
 >   - [有没有推荐的md编辑器？](typora_github)
 >
 > - ### 意见收集：若您对指南的内容有更好的意见和建议，欢迎告诉我们
 >
->   - [点击此处提交反馈](https://github.com/leaishere/docs_new/issues/1)
+>   [点击此处提交反馈](https://github.com/leaishere/docs_new/issues/1)
+>   
+> - ### 维护人员
+>
+>   - [产品文档维护及发布](https://ushare.ucloudadmin.com/pages/viewpage.action?pageId=17798669)：由产品文档负责人们分管
+>   - API文档维护：徐晓路
+>   - 平台导航维护及发布：李安
+>   - Github建仓：冯业浩
+>   - Github仓库管理员维护：李安
 
 
 
@@ -50,23 +57,17 @@
 
 ## 《4步上手文档中心》
 
+## Step1:注册账号、申请仓库 	[详细内容>>](before_work)
+
+使用**ucloud邮箱**注册github账号     >>>    联系主仓库的管理者冯业浩新建仓库     >>>      查收邀请邮件，前往仓库
 
 
-### Step1:注册账号、申请仓库 	[详细内容>>](before_work)
 
-#### 		1-1.使用**ucloud邮箱**注册github账号
+## Step2:开始写文档
 
-#### 		1-2.联系主仓库的管理者冯业浩新建仓库
+#### 	1. 查看**产品文档仓库/API文档仓库** [仓库列表>>](https://github.com/UCloudDocs?tab=repositories)
 
-#### 		1-3.查收邀请邮件，前往仓库
-
-### Step2:开始写文档
-
-#### 		2-1 **UCloudDocs的官方github账号** [点击查看>>](https://github.com/UCloudDocs)
-
-#### 		2-2 **产品文档仓库/API文档仓库** [仓库列表>>](https://github.com/UCloudDocs?tab=repositories)
-
-#### 		2-3 **仓库内容结构** [仓库内容详解>>](repository)
+#### 	2. 了解**仓库内容结构** [仓库内容详解>>](repository)
 
 			- _sidebar.md：用于控制左侧目录
 			- overview.md：建议仓库提供的概览页，方便创作者对外分享也方便用户整体概览
@@ -209,12 +210,4 @@
 [范例_ULB文档](https://github.com/UCloudDocs/UCloud-document/tree/master/network/ulb)
 
 [Github简明教程](https://github.com/UCloudDocs/UCloud-document/tree/master/network/ulb)
-
-
-
-### 【 联系人】
-
-文档中心产品经理：李安
-
-github主仓库管理人、文档发布人：冯业浩
 

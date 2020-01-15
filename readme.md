@@ -57,11 +57,11 @@
 
 ## 《4步上手文档中心》
 
-## Step1:注册账号、申请仓库 	[详细内容>>](before_work)
+## Step1:注册账号、申请仓库 	
 
 使用**ucloud邮箱**注册github账号     >>>    联系主仓库的管理者冯业浩新建仓库     >>>      查收邀请邮件，前往仓库
 
-
+[详细内容>>](before_work)
 
 ## Step2:开始写文档
 
@@ -104,12 +104,12 @@
 
 ## 附录_可复制的markdown模版
 
-- [_sidebar.md](#_sidebar.md 以uhost为例)
-- [overview.md](#overview.md 以UHost为例)
-- [tabs标签模版](#Tabs标签模块)
-- [收起展开](#Tabs标签模块)
+- [_sidebar.md](#_sidebar.md)
+- [overview.md](#overview.md)
+- [tabs标签模版](#tabs标签模块)
+- [收起展开html语法](#收起展开html语法)
 
-### _sidebar.md 以uhost为例
+### _sidebar.md
 
 ``` markdown
 <div class="sidebar_title icon__uhost"> 云主机 UHost</div>                 <!-- 产品名称+icon -->
@@ -131,7 +131,7 @@
 
 
 
-### overview.md 以UHost为例
+### overview.md
 
 ```markdown
 # 概览

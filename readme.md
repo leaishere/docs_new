@@ -48,99 +48,45 @@
 
 
 
-
-
 ## 《4步上手文档中心》
 
-### Step1:注册账号、申请仓库
 
-#### 	1-1.使用**ucloud邮箱**注册github账号
 
-#### 	1-2.联系主仓库的管理者冯业浩新建仓库
+### Step1:注册账号、申请仓库 	[详细内容>>](before_work)
 
-#### 	1-3.查收邀请邮件，前往仓库
+#### 		1-1.使用**ucloud邮箱**注册github账号
 
-​	[详细内容>>](before_work)
+#### 		1-2.联系主仓库的管理者冯业浩新建仓库
+
+#### 		1-3.查收邀请邮件，前往仓库
 
 ### Step2:开始写文档
 
-#### 	2-1 **UCloudDocs的官方github账号** [点击查看>>](https://github.com/UCloudDocs)
+#### 		2-1 **UCloudDocs的官方github账号** [点击查看>>](https://github.com/UCloudDocs)
 
-#### 	2-2 **产品文档仓库/API文档仓库** [仓库列表>>](https://github.com/UCloudDocs?tab=repositories)
+#### 		2-2 **产品文档仓库/API文档仓库** [仓库列表>>](https://github.com/UCloudDocs?tab=repositories)
 
-#### 	2-3 **仓库内容**
+#### 		2-3 **仓库内容结构** [仓库内容详解>>](repository)
+
+			- _sidebar.md：用于控制左侧目录
+			- overview.md：建议仓库提供的概览页，方便创作者对外分享也方便用户整体概览
+			- 文件夹/markdown文件：各层级关系的文档
 
 ![画板](images/画板.jpg)
-
-#### 	1. _sidebar.md控制左边栏--------用于生成页面左侧导航
-
-- 文件名是“\_sidebar.md”,下划线不能丢，	[查看范例>>](sidebar)
-
-- **【新功能】在规定class内写入产品icon名称，可在左边栏渲染出图标**
-在_sidebar.md内首行新增class用于添加产品icon（如下图）。只需在[图标库](https://console-font.pre.ucloudadmin.com/www/preview)找到所需产品icon，并去您所管辖的**产品文档和api文档的sidebar文件下**，在图中圈中区域填入icon名称即可生效（样式类似“icon_ulb”）。 [以ulb产品文档为例，详细说明>>](icon)
-
-  ![屏幕快照 2019-12-03 上午11.22.04](images/class.png)
-
-  > **【温馨提示】** 现存仓库内_sidebar.md已批量添加好class。由于icon命名规则与仓库不一致，无法批量添加。
-  > 请各位PD**自行**前往[图标库](https://console-font.pre.ucloudadmin.com/www/preview)查找，并在**_sidebar.md**内进行添加。
-
-#### 2.  overview.md控制概览页--------章节目录页   [查看范例>>](overview)
-
-#### 3.  文档文件夹--------章节
-
-> 文件名夹名称仅支持**英文字母、英文下划线、英文连字符**
-
-#### 4.  Markdown文档（xxx.md）--------文档	
-
-* **规范命名文件夹及文件**：文件夹及文件名仅支持**英文字母、英文下划线、英文连字符**；_同层级下文件（夹）之间不得重名；文件名不得缺少“.md”后缀
-
-* **文章标题请用H1**：当前文档标题需用一级标题样式，且文案应与sidebar.md内该文档的目录标题一致
-
-* **使用Markdown语法写文档**：文档正文写作需遵从github侧md要求，并及时前往[cms预览](cms.docs.ucloudadmin.com)
-
->  预览样式不争取？**掌握自检技能，小问题快速解！**
->
-> ![屏幕快照 2019-11-15 上午11.54.55](images/屏幕快照 2019-11-15 上午11.54.55.png)
-
-* **文档内添加文章跳链**
-
-  * 地址写法1:【推荐】使用绝对链接，如下图所示，直接目标文档的线上URL
-
-  * 地址写法2：相对地址，如下图所示的“链接写法”
-
-    ![屏幕快照 2019-11-01 下午12.27.19](images/屏幕快照 2019-11-01 下午12.27.19.png)
-
-* **对外分享或引用文档**
-
-  * **整篇文档？**：请直接使用线上目标文档的URL
-
-  * **段落章节？**：请点击目标段落所在文档中该段落标题，然后直接使用带段落锚点的URL（如下图）
-
-    ![屏幕快照 2019-11-15 下午2.09.07](images/屏幕快照 2019-11-15 下午2.09.07-3798714.png)
-
-> **【为啥不能使用#来指向段落了？】**由于新平台技术方案变更为“单页面应用”，“#”无法再作为段落锚点的引用符号。此外，新引用方式也避免了手写段落标题可能出现的错误。
->
-> **【温馨提示】** 不用担心，控制台的引用链接我们已清查、修正过。下次写作，请使用我们的新方法哦。
-
-#### 5. **给文档插入图片--------图库/仓库根目录下images文件夹**
-
-* 绝对地址引用：[使用图床>>](http://docs.ucloudadmin.com/5b10f62667ded1519074449f/edit)
-
-- 相对地址引用（规则不变）
-
-![](images/images.png)
 
 
 
 ## Step3:实时预览文档前往 
 
-我们支持实时预览。仓库内的变更都可以实时在[cms预览](cms.docs.ucloudadmin.com)上预览样式。
+我们支持实时预览。仓库内的变更都可以实时在[发布页面](https://cms.docs.ucloudadmin.com/ucpublishnew.html)上点击“前往预览”进行查看。
 
 
 
 ## Step4:自由发布
 
 发布地址：[点击这里](https://cms.docs.ucloudadmin.com/ucpublishnew.html)![image-20200113184021386](../docs_new/images/image-20200113184021386.png)
+
+
 
 ## 常见问题：
 
@@ -154,6 +100,107 @@
 -  是否完成一次 **commit**
 
 ------
+
+## 附录_可复制的markdown模版
+
+- [_sidebar.md](#_sidebar.md 以uhost为例)
+- [overview.md](#overview.md 以UHost为例)
+- [tabs标签模版](#Tabs标签模块)
+- [收起展开](#Tabs标签模块)
+
+### _sidebar.md 以uhost为例
+
+``` markdown
+<div class="sidebar_title icon__uhost"> 云主机 UHost</div>                 <!-- 产品名称+icon -->
+<!-- 空行不要删除！！！ -->           <!-- 空行不要删除！！！ -->            <!-- 空行不要删除！！！ -->
+* [概览](compute/uhost/overview)
+* 产品简介
+    * [什么是云主机](compute/uhost/introduction/concept)                  <!-- 层级缩进=4个空格 -->
+    * [产品优势](compute/uhost/introduction/advantages)
+    * [功能简介](compute/uhost/introduction/functions)
+    * [计费说明](compute/uhost/introduction/charge)
+    * 主机
+        * [地域与可用区](compute/uhost/introduction/uhost/az)
+        * [机型与CPU平台](compute/uhost/introduction/uhost/type_new)
+        * [特性](compute/uhost/introduction/uhost/feature)
+        * [订单构成](compute/uhost/introduction/uhost/lifecycle)
+        * [配额](compute/uhost/introduction/uhost/quota)
+        * [机型与规格](compute/uhost/introduction/uhost/type)
+```
+
+
+
+### overview.md 以UHost为例
+
+```markdown
+# 概览
+* 产品简介
+    * [什么是云主机](compute/uhost/introduction/concept)         <!-- 若写目录，可直接复制sidebar -->
+    * [产品优势](compute/uhost/introduction/advantages)
+    * [功能简介](compute/uhost/introduction/functions)
+    * [计费说明](compute/uhost/introduction/charge)
+    * 主机
+        * [地域与可用区](compute/uhost/introduction/uhost/az)
+        * [机型与CPU平台](compute/uhost/introduction/uhost/type_new)
+```
+> ### 概览页只能写目录？
+>
+> 当然不是，平台只是给出最低配的建议，以方便那些需要对外分享文档目录的创作者。平台非常希望广大创作者发挥自己的才智，使用md语法和平台提供的丰富样式来构建更有价值的概览页。
+
+
+
+### Tabs标签模块
+
+``` markdown
+<!-- tabs:start -->
+
+#### ** 第一个标签的标题 **
+
+第一个标签的内容：
+
+* 标题1
+* 标题2
+
+#### ** 第二个标签的标题 **
+
+第二个标签的内容：
+
+* 标题1
+* 标题2
+
+#### ** 第三个标签的标题 **
+
+第三个标签的内容：
+
+* 标题1
+* 标题2
+  <!-- tabs:end -->
+```
+
+
+
+### 收起展开html语法
+
+```HTML
+<details>
+  <summary>点击时的区域标题</summary>
+​```
+这是折叠的代码1
+这是折叠的代码2
+​```
+</details>
+```
+
+#### 【demo】
+
+<details>
+  <summary>点击查看</summary>
+我是详情内容
+</details>
+
+------
+
+
 
 ### 【参考资料】
 

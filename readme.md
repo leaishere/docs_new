@@ -118,19 +118,19 @@
 ``` markdown
 <div class="sidebar_title icon__uhost"> 云主机 UHost</div>                 <!-- 产品名称+icon -->
 <!-- 空行不要删除！！！ -->           <!-- 空行不要删除！！！ -->            <!-- 空行不要删除！！！ -->
-* [概览](compute/uhost/overview)
+* [概览](/uhost/README)
 * 产品简介
-    * [什么是云主机](compute/uhost/introduction/concept)                  <!-- 层级缩进=4个空格 -->
-    * [产品优势](compute/uhost/introduction/advantages)
-    * [功能简介](compute/uhost/introduction/functions)
-    * [计费说明](compute/uhost/introduction/charge)
+    * [什么是云主机](/uhost/introduction/concept)                  <!-- 层级缩进=4个空格 -->
+    * [产品优势](/uhost/introduction/advantages)
+    * [功能简介](/uhost/introduction/functions)
+    * [计费说明](/uhost/introduction/charge)
     * 主机
-        * [地域与可用区](compute/uhost/introduction/uhost/az)
-        * [机型与CPU平台](compute/uhost/introduction/uhost/type_new)
-        * [特性](compute/uhost/introduction/uhost/feature)
-        * [订单构成](compute/uhost/introduction/uhost/lifecycle)
-        * [配额](compute/uhost/introduction/uhost/quota)
-        * [机型与规格](compute/uhost/introduction/uhost/type)
+        * [地域与可用区](/uhost/introduction/uhost/az)
+        * [机型与CPU平台](/uhost/introduction/uhost/type_new)
+        * [特性](/uhost/introduction/uhost/feature)
+        * [订单构成](/uhost/introduction/uhost/lifecycle)
+        * [配额](/uhost/introduction/uhost/quota)
+        * [机型与规格](/uhost/introduction/uhost/type)
 ```
 
 
@@ -140,13 +140,13 @@
 ```markdown
 # 概览
 * 产品简介
-    * [什么是云主机](compute/uhost/introduction/concept)         <!-- 若写目录，可直接复制sidebar -->
-    * [产品优势](compute/uhost/introduction/advantages)
-    * [功能简介](compute/uhost/introduction/functions)
-    * [计费说明](compute/uhost/introduction/charge)
+    * [什么是云主机](/uhost/introduction/concept)         <!-- 若写目录，可直接复制sidebar -->
+    * [产品优势](/uhost/introduction/advantages)
+    * [功能简介](/uhost/introduction/functions)
+    * [计费说明](/uhost/introduction/charge)
     * 主机
-        * [地域与可用区](compute/uhost/introduction/uhost/az)
-        * [机型与CPU平台](compute/uhost/introduction/uhost/type_new)
+        * [地域与可用区](/uhost/introduction/uhost/az)
+        * [机型与CPU平台](/uhost/introduction/uhost/type_new)
 ```
 > ### 概览页只能写目录？
 >

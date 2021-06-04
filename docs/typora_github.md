@@ -1,17 +1,13 @@
-[<<返回](https://leaishere.github.io/docs_new/)
+# Typora-好用的MD编辑器
 
-------
+github的玩法有很多，这里推荐一个作者常用的方法：使用Typora协同完成第一次文档编辑：
 
-# 小编推荐-好用写作大法
-
-github的玩法有很多，这里推荐一个作者常用的方法。
-
-#### 6-1.下载顺手的工具
+## Step1.下载顺手的工具
 
 - 本地同步好帮手：[Gibhub客户端](https://desktop.github.com/)（win/osx）
 - 轻便makdown编辑器：[Typora](https://www.typora.io/)（win/osx） 
 
-#### 6-2. 克隆仓库
+## Step2.克隆仓库
 
 - 打开github客户端，登入你的github账号
 
@@ -27,7 +23,8 @@ github的玩法有很多，这里推荐一个作者常用的方法。
 
   ![](images/localfindfile.png)
 
-#### 6-3. 使用typora编辑文档
+
+## Step3. 使用typora编辑文档
 
 * 在编辑器中打开文档，使用markdown语法进行编辑
 
@@ -43,7 +40,7 @@ github的玩法有很多，这里推荐一个作者常用的方法。
 
 
 
-#### 6-4. 更新至线上仓库
+## Step4. 更新至线上仓库
 
 - 变更完文档后，github客户端会检测到“变化”，并标注出来。你可以在界面中核对修改。
 
@@ -53,7 +50,7 @@ github的玩法有很多，这里推荐一个作者常用的方法。
 
   ![](images/githubpush.png)
 
-#### 6-5.前往线上仓库。Boom！仓库更新了哦。
+## Step5. 前往线上仓库。Boom！仓库更新了哦。
 
 ![](images/boom.png)
 

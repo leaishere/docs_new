@@ -13,7 +13,8 @@
   - [添加一张有质量的截图](capture.md)
 
 - **FAQ**
-- [如何在左边栏增设产品icon](FAQ_icon.md)
+
+  - [如何在左边栏增设产品icon](FAQ_icon.md)
   - [如何添加超链接](FAQ_link.md)
   - [如何使用Tabs样式](FAQ_tabs.md)
   - [左侧目录无法显示某篇文档入口，怎么办？](FAQ_menu.md)

@@ -1,6 +1,6 @@
 # 如何使用Tabs样式
 
-![屏幕快照 2020-01-13 下午7.11.55](../../../../../Documents/规范_控制台/ued-docs/lib/metu/DatePicker&TimePicker/屏幕快照 2020-01-13 下午7.11.55.png)
+![屏幕快照 2020-01-13 下午7.11.55](../../../../../../Documents/规范_控制台/ued-docs/lib/metu/DatePicker&TimePicker/屏幕快照 2020-01-13 下午7.11.55-3036974.png)
 
 #### 【复制以下md】
 
@@ -23,6 +23,4 @@
 <!-- tabs:end -->
 ```
 
-　
 
-### 

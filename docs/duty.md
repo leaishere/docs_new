@@ -1,7 +1,3 @@
-[<<返回](https://leaishere.github.io/docs_new/)
-
-------
-
 # 仓库管理人的权限及职责
 
 ### 受邀账号的权限

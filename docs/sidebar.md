@@ -22,6 +22,8 @@
   - [代码高亮支持哪些语言呢？](FAQ_code.md)
   - [如何有效使用提示样式?](FAQ_notice.md)
   - [如何在文章中显示内容目录](FAQ_content-menu.md)
+  - [如何添加副标题](FAQ_subtitle.md)
+  - [更新时间如何定义？](FAQ_updatetime.md)
 
 - **好文档范例**「敬请期待」
 - **[更新日志](changelog.md)**

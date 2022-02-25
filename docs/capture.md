@@ -16,5 +16,5 @@
 
 ## 用什么截？
 
-「推荐工具」Snipaste [快去下载]([Snipaste](https://www.snipaste.com/)
+「推荐工具」Snipaste [快去下载](https://www.snipaste.com/)
 

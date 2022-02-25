@@ -33,7 +33,7 @@
 
 ## Step4:自由发布
 
-发布地址：[点击这里](https://cms.docs.ucloudadmin.com/ucpublishnew.html)![image-20200113184021386](../docs_new/images/image-20200113184021386.png)
+发布地址：[点击这里](https://cms.docs.ucloudadmin.com/ucpublishnew.html)![image-20200113184021386](images/image-20200113184021386.png)
 
 
 

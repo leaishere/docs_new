@@ -14,7 +14,7 @@
 
 - **FAQ**
 
-  - [如何激活发布权限](FAQ_Publish.md)
+  - [如何激活发布权限](FAQ_publish.md)
   - [如何在左边栏增设产品icon](FAQ_icon.md)
   - [如何添加超链接](FAQ_link.md)
   - [如何使用Tabs样式](FAQ_tabs.md)

@@ -1,6 +1,6 @@
 # 如何激活发布权限？
 
-1. 确保您github账号下Primary Email是uclou的邮箱
+1. 确保您github账号下Primary Email是ucloud的邮箱
 2. 登入github并找到Setting
 ![](../docs_new/images/setting.jpg)
 3. 前往Email配置并却笑“Keep Private”的勾选

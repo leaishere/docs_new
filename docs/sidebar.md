@@ -1,7 +1,7 @@
-
-- [文档中心 - 用户体验中心_UED - UShare (ucloudadmin.com)](https://ushare.ucloudadmin.com/pages/viewpage.action?pageId=14753781)
-- [UCloudDocs (github.com)](https://github.com/UCloudDoc-Team)
 - **Getting started**
+
+  - [文档中心 - 用户体验中心_UED - UShare (ucloudadmin.com)](https://ushare.ucloudadmin.com/pages/viewpage.action?pageId=14753781)
+  - [UCloudDocs (github.com)](https://github.com/UCloudDoc-Team)
   - [快速上手](guick_start.md)
   - [Typora-好用MD编辑器](typora_github.md)
 - **User Guidebook**

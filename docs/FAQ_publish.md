@@ -4,7 +4,7 @@
 
 2. 登入github并找到Setting
 <<<<<<< HEAD
-  ![](images/setting.png)
+    ![](images/setting.png)
 
 3. 前往Email配置并**取消**“Keep Private”的勾选
 

@@ -27,13 +27,13 @@
 
 ## Step3:实时预览文档前往 
 
-我们支持实时预览。仓库内的变更都可以实时在[发布页面](https://cms.docs.ucloudadmin.com/ucpublishnew.html)上点击“前往预览”进行查看。
+我们支持实时预览。仓库内的变更都可以实时在[发布页面](https://cms-docs.ucloudadmin.com/ucpublishnew.html)上点击“前往预览”进行查看。
 
 
 
 ## Step4:自由发布
 
-发布地址：[点击这里](https://cms.docs.ucloudadmin.com/ucpublishnew.html)![image-20200113184021386](images/image-20200113184021386.png)
+发布地址：[点击这里](https://cms-docs.ucloudadmin.com/ucpublishnew.html)![image-20200113184021386](images/image-20200113184021386.png)
 
 
 

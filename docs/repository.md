@@ -52,7 +52,7 @@
 
 #### 5. **给文档插入图片--------图库/仓库根目录下images文件夹**
 
-* 绝对地址引用：[使用图床>>](http://docs.ucloudadmin.com/5b10f62667ded1519074449f/edit)
+* 绝对地址引用：[使用图床>>](https://suploader.ucloudadmin.com/upload)
 
 - 相对地址引用（规则不变）
 

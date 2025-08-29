@@ -6,7 +6,7 @@
   - [Typora-好用MD编辑器](typora_github.md)
 - **Preview**
 
-  - [测试版：新文档体系（01-13）](test_new/index.html)
+  - [测试版：新文档体系（01-13）](/docs_new/test_new/)
 - **User Guidebook**
 
   - [准备工作](before_work.md)

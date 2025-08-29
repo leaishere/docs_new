@@ -4,6 +4,9 @@
   - [UCloudDocs (github.com)](https://github.com/UCloudDoc-Team)
   - [快速上手](guick_start.md)
   - [Typora-好用MD编辑器](typora_github.md)
+- **Preview**
+
+  - [测试版：新文档体系（01-13）](test_new/index.html)
 - **User Guidebook**
 
   - [准备工作](before_work.md)
